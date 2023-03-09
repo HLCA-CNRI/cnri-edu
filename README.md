@@ -53,8 +53,6 @@
 - MRV
 - IPCC
 - 기후공시
-- CDP
-- SBTi
 - 탄소배출권거래제
   - 할당업체
   - 상쇄배출권
@@ -77,5 +75,7 @@
 - CBAM(탄소국경세)
   - Fit for 55
   - EU ETS
+- CDP
+- SBTi
 - CCUS(Carbon Capture, Utilization and Storage)
 - 청정수소
